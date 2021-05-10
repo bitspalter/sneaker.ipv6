@@ -7,4 +7,4 @@ g++ *.cpp -std=c++11 -o sneaker.ipv6 -no-pie -Wall \`pkg-config gtkmm-3.0 --cfla
 
    setcap cap_net_raw,cap_net_admin=eip ./sneaker.ipv6
 
-![alt tag](https://github.com/bitspalter/sneaker/blob/main/sneaker.v6.png "sneaker.ipv6")
+![alt tag](https://github.com/bitspalter/sneaker.ipv6/blob/main/sneaker.v6.png "sneaker.ipv6")
